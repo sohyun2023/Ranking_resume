@@ -1,2 +1,3 @@
 # Ranking_resume
-Ranking Resumes using DL
+Ranking Resumes based on DeepLearning
+Datasets from Kaggle
